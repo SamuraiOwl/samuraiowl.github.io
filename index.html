@@ -2,9 +2,13 @@
 layout: default
 ---
 
-## Welcome to the (not yet) official SamuraiOwl website!!!
+<h1>
+    Welcome to the (not yet) official SamuraiOwl website!!!
+</h1>
 
-This page isn't done yet, so if you want to see my official site, [go here.](https://sites.google.com/view/samuraiowl)
+<p>
+    This page isn't done yet, so if you want to see my official site, <a href="https://sites.google.com/view/samuraiowl" target="_blank">go here</a>.
+</p>
 
 <ul>
     {% for post in paginator.posts %}
@@ -12,6 +16,7 @@ This page isn't done yet, so if you want to see my official site, [go here.](htt
           <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
           <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
           <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">... read more</a>
       </li>
     {% endfor %}
 </ul>
