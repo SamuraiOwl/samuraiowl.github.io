@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hello! My name is SamuraiOwl. I've just started learning how to make websites, and I'm already learning JavaScript on [KhanAcademy](https://www.khanacademy.org/). I hope to then learn HTML/CSS and then Java, and then perhaps Python. I make [music](https://samuraiowl.github.io/music.html) with [LMMS](https://lmms.io/) and use [LibreOffice](https://www.libreoffice.org/) to write my [books](https://samuraiowl.github.io/books.html). My favorite games include:
+Hello! My name is SamuraiOwl. I've just started learning how to make websites, and I'm already learning JavaScript on [KhanAcademy](https://www.khanacademy.org/). I hope to then learn HTML/CSS and then Java, and then perhaps Python. I make [music](https://samuraiowl.github.io/music.html) with [LMMS](https://lmms.io/) and use [LibreOffice](https://www.libreoffice.org/) to write my [books](https://samuraiowl.github.io/books). My favorite games include:
  [Minecraft](https://minecraft.net/en-us),
  [Terraria](http://terraria.org/), and
  [Limbo](http://www.playdead.com/games/limbo/).
