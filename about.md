@@ -7,7 +7,7 @@ Hello! My name is SamuraiOwl. I've just started learning how to make websites, a
  [Minecraft](https://minecraft.net/en-us),
  [Terraria](http://terraria.org/), and
  [Limbo](http://www.playdead.com/games/limbo/).
- I dream of being a famous YouTuber and of making a video game called Triple Dragon with [Java](https://java.com/en/).
+ I dream of being a famous YouTuber and of making a video game called [Triple Dragon](https://samuraiowl.github.io/triple_dragon.github.io/) with [Java](https://java.com/en/).
  I am currently using DU Recorder (Available on Google Play) to make [gaming videos](samuraiowl.github.io/videos.html/gaming_videos.html).
  BTW, I have another site with all my stuff on it. [Go Here to Visit Now](https://sites.google.com/view/samuraiowl).
  Well, that's all I have to say. See you later!
