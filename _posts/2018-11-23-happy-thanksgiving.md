@@ -1,5 +1,5 @@
 ---
-title : Happy Thanksgiving! 
+title : Happy Thanksgiving
 published : true
 ---
  <h1> Hello, Ohio! </h1>
