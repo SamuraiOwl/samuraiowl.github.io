@@ -10,4 +10,4 @@ I've just started learning how to make websites, and I'm already learning JavaSc
  I am currently using DU Recorder (Available on Google Play) to make [gaming videos](samuraiowl.github.io/videos.html/gaming_videos.html).
  My first website was made with [Google Sites](https://sites.google.com). I don't update that site anymore since this is my official website now,  but you can still [check it out here](https://sites.google.com/view/samuraiowl).
  Well, that's all I have to say. See you later!
-(P.S. I also have a small Q&A  about myself [here](https://samuraiowl.github.io/q&a).
+(P.S. I also have a small Q&A  about myself [here](https://samuraiowl.github.io/q&a).)
