@@ -1,9 +1,9 @@
-title: Samurai Owl
+title: SamuraiOwl
 description: "The officially fowl website for Samuari Owl"
 author:
-  name: "Samurai Owl"
+  name: "SamuraiOwl"
   email: "samuraiowl00@gmail.com"
-  url: ""
+  url: "https://samuraiowl.github.io"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "Samurai Owl"
+owner : "SamuraiOwl"
 year : "2018"
