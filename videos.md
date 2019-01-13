@@ -7,7 +7,7 @@ layout: page
 <p><a href = "https://samuraiowl.github.io/animated_videos">Animated Videos</a></p>
 <p><a href = "https://samuraiowl.github.io/promotion_videos">App Feature Videos</a></p>
 <p><a href = "https://samuraiowl.github.io/gaming_videos.html">Gaming Videos</a></p>
-<a href = "https://samuraiowl.github.io/music_videos">Music Videos</a>
+<p><a href = "https://samuraiowl.github.io/music_videos">Music Videos</a></p>
 <p><a href = "https://samuraiowl.github.io/random_videos">Random Videos</a></p>
 <p><a href = "https://samuraiowl.github.io/terraria-videos">Terraria Videos</a></p>
 <p><a href = "https://samuraiowl.github.io/za_videos">Zombie Apocaypse Videos</a></p>
