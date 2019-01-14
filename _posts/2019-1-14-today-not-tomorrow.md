@@ -9,6 +9,7 @@ published : true
 <p>My dad had a wallpaper that said this very well. On it, it said...</p>
 <p>TOMORROW (NOUN)</p>
 <p>The mystical land where 99% of all human work gets done.</p>
+<p>Isn't that funny??!</p>
 <p>Another thing to keep in mind is that if you do X,Y and Z now, you won't have to do it later.</p>
 <p>Quit procrastinating!</p>
 <p>Stop putting it off!</p>
