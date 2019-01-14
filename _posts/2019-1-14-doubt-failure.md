@@ -13,4 +13,4 @@ published : true
 <p>Questions like these - results of doubt - are very dangerous to self-esteem.</p>
 <p>Don't let doubt take over!</p>
 <p>Resist!</p>
-<h2>Doubt Kills More Dreams than Failure Ever Will.</p>
+<h2>Doubt Kills More Dreams than Failure Ever Will.</h2>
