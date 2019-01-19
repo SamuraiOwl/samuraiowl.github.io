@@ -2,8 +2,13 @@
 layout : page
 ---
 <h1>Terraria Season 1</h1>
-<p><a href = "https://drive.google.com/open?id=1VLhuOCTIfVWODxFdK4v3uwmetR85O0l0">Terraria Ep. 1</a></p>
-<p><a href = "https://drive.google.com/open?id=1uCPzYPc5ncSKsOVtOtLRtvUAW6_HtxgU">Terraria Ep. 2</a></p>
+<p>
+{% include youtube.html id="o1M0pD-ZGQs" %}
+Terraria Ep. 1
+</p>
+<p>
+{% include youtube.html id="1-iJv0IsuLI" %}Terraria Ep. 2</a>
+</p>
 <p><a href = "https://drive.google.com/open?id=1ZGmYVU5urSHPqh2CwAkG2rC4-FmykrZ6">Terraria Ep. 3</a></p>
 <p><a href = "https://drive.google.com/open?id=124YUnmZ77q5dAsj2qiXU3G0iY4xc42bV">Terraria Ep. 4</a></p>
 <p><a href = "https://drive.google.com/open?id=102IU3Bo-_wfGavFjYqKmCECXUMil6HMW">Terraria Ep. 5</a></p>
