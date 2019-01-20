@@ -1,5 +1,5 @@
 ---
-title: A Short Break : Stop Motion Animation Test
+title: A Short Break - Stop Motion Animation Test
 published: true
 
 ---
