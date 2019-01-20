@@ -1,6 +1,7 @@
 ---
 title: A Short Break : Stop Motion Animation Test
 published: true
+
 ---
 
 I decided to  take a break from my regularly scheduled game play videos to learn, and do, something new.
