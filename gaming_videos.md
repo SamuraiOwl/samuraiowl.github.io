@@ -9,8 +9,6 @@ layout: page
 <p><a href = "https://samuraiowl.github.io/swordigo_videos">Swordigo Videos</a></p>
 <p><a href = "https://samuraiowl.github.io/super-dd-videos">Super Dangerous Dungeons Videos</a></p>
 <p><a href = "https://samuraiowl.github.io/terraria-videos">Terraria Videos</a></p>
-<p><a href = "https://drive.google.com/open?id=1o2Re5qv-e8dNnb3dSAFdndrsWu_akPuc">Pixel Dragons Unleashed - Video Game Trailer (FAKE!) </a></p>
-<p><a href = "https://drive.google.com/open?id=1oqMsNOFMsXBPI-PeZt997Cv8tl1TY1sS">Pixels - Video Game Trailer (FAKE!)</a></p>
 <p><a href = "https://drive.google.com/open?id=1zOq8gpZs5W4prZmZ97LSZHFKGeW1qoTW">Shattered Pixal Dungeon</a></p>
 <p><a href = "https://drive.google.com/open?id=13eH1JVm-xZc7dWiq0k5Q8FB0vIHixl3L">Slayin</a></p>
 <p><a href = "https://drive.google.com/open?id=15vEsP_a8I4prTUv-coUMv2LioPIaQtKT">Soul Knight</a></p>
