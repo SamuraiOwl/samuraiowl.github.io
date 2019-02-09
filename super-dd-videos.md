@@ -2,6 +2,6 @@
 layout : page
 title : Super DD Videos
 ---
-<h2>Super Dangerous Dungeons (Super DD)</h2>
-[Super Dangerous Dungeons Ep. 1](https://drive.google.com/open?id=1SxbRp2tm9XiQxVDVpdboPaUEWjO66DZ3)
-ctZpOaxhmFY
+<h2>Super Dangerous Dungeons (Super DD) Videos</h2>
+{% include youtube.html id="ctZpOaxhmFY" %}
+<p>Super DD Ep. 1 </p>
