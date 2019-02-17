@@ -24,5 +24,5 @@ layout : page
 <p>Terraria Ep. 6</p>
 <p>{% include youtube.html id="21Nrz96qnwQ" %}
 <p>Terraria Ep. 7</p>
-<p>{% include youtube.html id="21Nrz96qnwQ" %}
+<p>{% include youtube.html id="AvK_ZWWgo4E" %}
 <p>Terraria Ep. 8 </p>
