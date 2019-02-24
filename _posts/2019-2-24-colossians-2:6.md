@@ -1,5 +1,5 @@
 ---
-title : 1 Colossians 2:6
+title : Colossians 2:6
 published : True
 ---
 <h2>As ye have therefore received Christ Jesus the Lord, so walk ye in him...
