@@ -3,7 +3,6 @@ title: Music
 layout: page
 ---
 <h1>Music created by SamuraiOwl</h1>
-<h1><a href = "https://samuraiowl.github.io/music_videos">Music Videos</a></h1>
 
 <h2>A Feathered Beginning</h2>
 <p><a href = "https://drive.google.com/open?id=0B_JoRCORW9hzaElLX1MzZm5Sd3Q3NUFEREtER3p4WDZTNGw4">Scary Caterpillar Music</a></p>
