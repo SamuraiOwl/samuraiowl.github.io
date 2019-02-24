@@ -11,4 +11,3 @@ layout: page
 <p><a href = "https://samuraiowl.github.io/terraria-videos">Terraria Videos</a></p>
 <h3>Individuals </h3>
 <p><a href = "https://drive.google.com/open?id=13eH1JVm-xZc7dWiq0k5Q8FB0vIHixl3L">Slayin</a></p>
-<p><a href = "https://drive.google.com/open?id=15vEsP_a8I4prTUv-coUMv2LioPIaQtKT">Soul Knight</a></p>
