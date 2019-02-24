@@ -10,5 +10,5 @@ layout: page
 <p><a href = "https://samuraiowl.github.io/super-dd-videos">Super Dangerous Dungeons Videos</a></p>
 <p><a href = "https://samuraiowl.github.io/terraria-videos">Terraria Videos</a></p>
 <h3>Individuals </h3>
-{% include youtube.html id="3GRUhLSOp1s&t=" %}
+{% include youtube.html id="3GRUhLSOp1s&t" %}
 <p>Slayin'</p>
