@@ -1,6 +1,7 @@
 ---
 layout : page
 ---
+{% include youtube.html id="o1M0pD-ZGQs
 <h1>Terraria Season 1</h1>
 
 {% include youtube.html id="o1M0pD-ZGQs" %}
