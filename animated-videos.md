@@ -1,4 +1,5 @@
 ---
 title : Animated Videos
-layout : pazzz
+layout : page
+---
 {% include youtube.html id="EJAT3kSRn2Y" %}
