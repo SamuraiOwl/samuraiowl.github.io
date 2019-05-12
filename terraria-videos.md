@@ -3,6 +3,7 @@ layout : page
 ---
 {% include youtube.html id="rBY9Xx03HkE" %}
 <p>Terraria Schedule </p>
+
 <h1>Terraria Season 1</h1>
 
 {% include youtube.html id="o1M0pD-ZGQs" %}
@@ -24,12 +25,16 @@ layout : page
 
 <p>{% include youtube.html id="QjW9-fZjx0M" %}
 <p>Terraria Ep. 6</p>
+
 <p>{% include youtube.html id="21Nrz96qnwQ" %}
 <p>Terraria Ep. 7</p>
+
 <p>{% include youtube.html id="AvK_ZWWgo4E" %}
 <p>Terraria Ep. 8 </p>
+
 <p>{% include youtube.html id="hqBJqSpSupg" %}
 <p>Terraria Ep. 9 </p>
+
 <p>{% include youtube.html id="o7krO0QcHys" %}
 <p>Terraria Ep. 10 </p>
 
@@ -40,3 +45,9 @@ layout : page
 
 <p>{% include youtube.html id="8zKYG8jK4I0" %}
 <p>Terraria Ep. 12 </p>
+
+<p>{% include youtube.html id="GUtDfvcuASc" %}</p>
+<p>Terraria Ep. 13 </p>
+
+<p>{% include youtube.html id="k5ZOcFjUhME" %}</p>
+<p>Terraria Ep. 14 </p>
