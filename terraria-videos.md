@@ -54,3 +54,8 @@ layout : page
 
 <p>{% include youtube.html id="WHmjND12bGg" %}</p>
 <p>Terraria Ep. 15 </p>
+
+<h1>Terraria Season 4 </h1>
+
+<p>{% include youtube.html id="aJlYWfnfc_0" %}</p>
+<p>Terraria Ep. 16 </p>
