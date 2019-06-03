@@ -9,6 +9,4 @@ layout : page
 <p><h1>How do you make your gaming videos?</h1></p>
 <p><h3>I use a mobile app on my phone called DU Recorder (available on Google Play). However, it is only for mobile devices as far as I know.</p></h3>
 <p><h1>What about your stop-motion videos?</h1></p>
-<p>For those, I use a different app called Stop-Motion Studio (available on Google Play).
-<p><h1>WHY IS YOUR MUSIC SO DUMB??!</h1></p>
-<h3>I'm just a beginner, you know!! 😖</h3>
+<p><h3>For those, I use a different app called Stop-Motion Studio (available on Google Play).</h3>
