@@ -63,5 +63,5 @@ layout : page
 <p>{% include youtube.html id="K8Hm7SUe-Cc" %}</p>
 <p>Terraria Ep. 17 </p>
 
-<p>{% include youtube.html id="Oz_0UTrzKUE-Cc" %}</p>
+<p>{% include youtube.html id="Oz_0UTrzKUE" %}</p>
 <p>Terraria Ep. 18 </p>
