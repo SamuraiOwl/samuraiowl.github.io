@@ -7,4 +7,4 @@ layout : page
 <h2>CodeCraft </h2>
 <p>This is a game I was working on for a little while just for kicks. I made it with <a href = "https://trinket.io">Trinket</a>. It's not very well-done, but it's a start.</p>
 <h2><a href = "https://www.roblox.com/games/3279972425/Sword-Clash-Battle-Royale-Survival-ALPHA">Sword Clash : Battle Royale Survival (ALPHA)</a></h2>
-<p>This is a Roblox game LordThaddius and I habe been working on.</p>
+<p>This is a Roblox game LordThaddius and I have been working on.</p>
