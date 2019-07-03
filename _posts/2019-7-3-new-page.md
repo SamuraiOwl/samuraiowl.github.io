@@ -1,5 +1,5 @@
 ---
-title : New Page : Games!!!
+title : New Page - Games!!!
 published : true
 ---
 
