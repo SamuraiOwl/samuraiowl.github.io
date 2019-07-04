@@ -7,6 +7,6 @@ layout : page
 <p><h1>How do you make your music?</h1></p>
 <p><h3>I use a free app called LMMS to make my music. You can get it <a href = "https://lmms.io">here</a>.</h3></p>
 <p><h1>How do you make your gaming videos?</h1></p>
-<p><h3>I use a mobile app on my phone called DU Recorder (available on Google Play). However, it is only for mobile devices as far as I know.</h3></p>
+<p><h3>I use a free mobile app on my phone called DU Recorder. However, it recently was discontinued and you can only use it if you already have it..</h3></p>
 <p><h1>What about your stop-motion videos?</h1></p>
 <p><h3>For those, I use a different app called Stop-Motion Studio (available on Google Play).</h3>
