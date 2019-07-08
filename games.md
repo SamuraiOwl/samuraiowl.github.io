@@ -11,5 +11,5 @@ layout : page
 <h2><a href = "https://www.roblox.com/games/3279972425/Sword-Clash-Battle-Royale-Survival-ALPHA">Sword Clash : Battle Royale Survival (ALPHA)</a></h2>
 <p>This is a <a href = "https://www.roblox.com">Roblox</a> game <a href = "https://www.roblox.com/users/949868877/profile">LordThaddius </a> and I have been working on.</p>
 
-<h2><a href = "https://www.roblox.com/games/2971132044/The-Sky-is-Falling">The Sky is Falling!!!</a>
+<h2><a href = "https://www.roblox.com/games/2971132044/The-Sky-is-Falling">The Sky is Falling!!!</a></h2>
 <p>This is a <a href = "https://www.roblox.com">Roblox</a> game that I made a while back. Badly made, but it's a good start.</p>
