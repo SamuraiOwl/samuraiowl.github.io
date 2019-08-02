@@ -11,6 +11,6 @@ published : true
 
 <p>We must do what the Bible tells us to do! There's more to it than just reading the Bible - we need to put it into practice! If we can do that, then "the God of peace will be with you" (see Philippians 4:9 up top).</p>
 
-<p>God didn't give us the Bible as just a fun little work of literature; He gave it to us as His instruction manual to life! When you get something new, the instruction manuals are often helpful - and even mandatory - for understanding how to ise that new something.</p>
+<p>God didn't give us the Bible as just a fun little work of literature; He gave it to us as His instruction manual to life! When you get something new, the instruction manuals are often helpful - and even mandatory - for understanding how to use that new something.</p>
 
 <p>Be more than just hearers of the Word; be doers of the Word!</p>
