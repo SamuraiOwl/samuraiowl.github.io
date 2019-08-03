@@ -9,3 +9,4 @@ title: Books
 <h2>Trailers </h2>
 <p><a href = "https://samuraiowl.github.io/arly-trailer">Arly - A Vampire Story - Trailer</a></p>
 <p><a href = "https://samuraiowl.github.io/swordburst-trailer">Swordburst - Trailer </a></p>
+<p><a href = "https://samuraiowl.github.io/gitg-trailer">Get in the Game - A Minecraft Story - Trailer </a></p>
