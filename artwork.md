@@ -8,4 +8,4 @@ layout : page
 
 <img src="assets/bwalkverse.jpg" alt="Boardwalk Verse Image">
 
-<a href = "samuraiowl.github.io/mimecraft-art">Minecraft Artwork</a>
+<h3><a href = "samuraiowl.github.io/minecraft-art">Minecraft Artwork</a></h3>
