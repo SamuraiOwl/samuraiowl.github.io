@@ -15,7 +15,7 @@ published : true
 
 <p><a href = "http://bit.ly/2VUog9s">The Ocean</a></p>
 
-<p><a href = "http://bit.ly/2ZsXve5">Zombies!</a></p>
+<p><a href = "http://bit.ly/379tK4q">Zombies!</a></p>
 
 <h3>Videos</h3>
 
