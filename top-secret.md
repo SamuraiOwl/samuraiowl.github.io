@@ -12,7 +12,10 @@ published : true
 <p><a href = "https://ttaud.io/2IfGxcA">On the Move </a></p>
 
 <p><a href = "https://ttaud.io/2IeYvf1">Building a Base </a></p>
+
 <p><a href = "http://bit.ly/2VUog9s">The Ocean</a></p>
+
+<p><a href = "http://bit.ly/2ZsXve5">Zombies!</a></p>
 
 <h3>Videos</h3>
 
