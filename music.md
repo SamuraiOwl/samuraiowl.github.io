@@ -4,31 +4,10 @@ layout: page
 ---
 <h1>Music created by SamuraiOwl</h1>
 
-<h2>A Feathered Beginning</h2>
-<p><a href = "https://drive.google.com/open?id=0B_JoRCORW9hzaElLX1MzZm5Sd3Q3NUFEREtER3p4WDZTNGw4">Scary Caterpillar Music</a></p>
-<p><a href = "https://drive.google.com/open?id=0B_JoRCORW9hzQ3VtVnZfcW1lRWYzekxHeS1Bd0hsMXlNVEVR">Lights Camera Action</a></p>
-<p><a href = "https://drive.google.com/open?id=0B_JoRCORW9hzQVdzaEwzc1FHUlRZc010NWdacGk4bFp6UVEw">Ridiculous Spy Music</a></p>
+<h3><a href="http://samuraiowl.bandcamp.com/album/1nd13-g4m3r">1ND13 G4M3R</a>
 
-<h2>Badda Bing, Badda Boom (Single)</h2>
-<p><a href = "https://drive.google.com/open?id=1ZjL8SL7Mp5W5YXMl_CA2sWq75QsYplJR">Badda Bing, Badda Boom</a></p>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2263487239/size=small/bgcol=333333/linkcol=0f91ff/track=3032606155/transparent=true/" seamless><a href="http://samuraiowl.bandcamp.com/album/1nd13-g4m3r">1ND13 G4M3R by SamuraiOwl</a></iframe>
 
-<h2>Bring the Ruckus!</h2>
-<p><a href = "https://drive.google.com/open?id=0B_JoRCORW9hzbUVZbjhKZlhvdGVlSjQybTNLNVloZEhlbDEw">Crazy Butterfly Music</a></p>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2263487239/size=small/bgcol=333333/linkcol=0f91ff/track=3158598149/transparent=true/" seamless><a href="http://samuraiowl.bandcamp.com/album/1nd13-g4m3r">1ND13 G4M3R by SamuraiOwl</a></iframe>
 
-<h2>H3AVY M3TA1 (Single)</h2>
-<a href = "https://drive.google.com/open?id=0B_JoRCORW9hzMmtWMEFMMDI1UzZIMDZ4QUI3V0ZlUXJhTUlJ">H3AVY M3TA1</a>
-<h2>Pagoda Boot Bottle (Single)</h2>
-<a href = "https://drive.google.com/open?id=1-FqJCK6-pxQtIxNpdRewM4-yZD6yE1xY">Pagoda Boot Bottle</a>
-
-<h2>Sleep</h2>
-<a href = "https://drive.google.com/open?id=1mFs6tRHowhXf6oQ4avS-Yn4c2wrw9_ui">A Delightful Instance of Broken Dreams</a>
-
-<h2>Superb (Single)</h2>
-<a href = "https://drive.google.com/open?id=1fsTcoKKp1Rqc4ChgYO9bzzhOb2tdqOdK">Superb!</a>
-
-<h2>The Song of David </h2>
-<a href = "https://drive.google.com/file/d/1HwdWNqGAHnrGnBa941997Vht_-SFhvNy/view?usp=drivesdk">The Pride of Israel </a>
-
-<h2>An Orchestral Song</h2>
-<p>From the Ashes - Made with <a href = "https://flat.io">Flat</a></p>
-<iframe src="https://flat.io/embed/5cf6e8d12e13f23a6f4379b3?sharingKey=872d6d79defac43be5b449f4c731c5f2c2f0d160c8bddc3df78ca33adcd67789450586cc58515240b67c0ba462b881f6b2083eb96bbc528264fd27ebf91a817c" height="450" width="375" frameBorder="0" allowfullscreen></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2263487239/size=small/bgcol=333333/linkcol=0f91ff/track=3309931063/transparent=true/" seamless><a href="http://samuraiowl.bandcamp.com/album/1nd13-g4m3r">1ND13 G4M3R by SamuraiOwl</a></iframe>
