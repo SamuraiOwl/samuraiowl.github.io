@@ -8,3 +8,5 @@ layout : page
 <img src="assets/swat-news.png" alt="Swat News">
 <img src="assets/bermuda-news.png" alt="Bermuda News">
 <img src="assets/terraria-news.png" alt="Terraria News">
+<img src="assets/planet-news.png" alt="Planet News">
+<img src="assets/lab-news.png" alt="Lab News">
