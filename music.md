@@ -14,4 +14,4 @@ layout: page
 
 <h3><a href="https://samuraiowl.bandcamp.com/album/rattlesnake-single">Rattlesnake (Single)</a>
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656825240/size=small/bgcol=ffffff/linkcol=0687f5/track=1562990969/transparent=true/" seamless><a href="http://samuraiowl.bandcamp.com/album/rattlesnake-single">Rattlesnake (Single) by Samurai Owl</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656825240/size=small/bgcol=333333/linkcol=0687f5/track=1562990969/transparent=true/" seamless><a href="http://samuraiowl.bandcamp.com/album/rattlesnake-single">Rattlesnake (Single) by Samurai Owl</a></iframe>
