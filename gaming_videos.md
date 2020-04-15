@@ -6,8 +6,7 @@ layout: page
 <p>Here are a bunch o' videos that I made of me playing video games.</p>
 <h3>Video Groups </h3>
 <h2><p><a href = "https://samuraiowl.github.io/fake-trailers">Fake Trailers</a></p>
-<p><a href = "https://samuraiowl.github.io/roblox_videos">Roblox Videos</a></p>
-<p><a href = "https://samuraiowl.github.io/swordigo_videos">Swordigo Videos</a></p>
+<p><a href = "https://www.youtube.com/playlist?list=PLkJZ4bHpeW_0A53hLYVlLuYNxtdLKSYOx">Roblox Videos</a></p>
 <p><a href = "https://samuraiowl.github.io/super-dd-videos">Super Dangerous Dungeons Videos</a></p>
 <p><a href = "https://www.youtube.com/playlist?list=PLkJZ4bHpeW_3kF1w_WH4k5fOVALOHnCoW&feature=share">Terraria Videos</a></p>
 <h3>Individuals </h3>
