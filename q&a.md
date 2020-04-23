@@ -20,4 +20,4 @@ layout : page
 <h2>What about your stop-motion videos?</h2>
 <p>For those, I use a different mobile app called <a href="https://play.google.com/store/apps/details?id=com.cateater.stopmotionstudio">Stop-Motion Studio.</a></p>
 
-<h1>Have other questions? Ask them <a href="https://forms.gle/8pGJXv1WLbwkxKcbA">here.</a></h1>
+<h1>Have other questions? Ask them <a href="https://samuraiowl.github.io/contact-me">here.</a></h1>
