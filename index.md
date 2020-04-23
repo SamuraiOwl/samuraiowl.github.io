@@ -1,15 +1,11 @@
 ---
-title: Welcome to my officially fowl website
+title: Official SamuraiOwl Website
 layout: default
 ---
 
 <h1 style="text-align: center;">
-    Welcome to the official SamuraiOwl website!!!
+    Welcome to the official SamuraiOwl website!
 </h1>
-
-<p>
- If you want to see my old website, <a href="https://sites.google.com/view/samuraiowl" target="_blank">go here</a>.
-</p>
 
 <ul>
     {% for post in paginator.posts %}
