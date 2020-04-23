@@ -11,11 +11,13 @@ layout : page
 <h2>How do you make your album covers?</h2>
 <p>I use <a href="https://canva.com">Canva!</a> It's very starightforward and easy to use, and it produces quality covers (if you know what you're doing)!</p>
 
-<p><h1>Where can I get your music?</h1></p>
+<h2>Where can I get your music?</h2>
 <p>Thanks for asking! I recently started using BandCamp to publish my music, so my songs are now available to buy <a href="https://samuraiowl.bandcamp.com">here.</a></p>
 
-<p><h1>How do you make your gaming videos?</h1></p>
+<h2>How do you make your gaming videos?</h2>
 <p>I use a free mobile app on my phone called <a href="https://www.du-recorder.com">DU Recorder.</a></p>
 
-<p><h1>What about your stop-motion videos?</h1></p>
+<h2>What about your stop-motion videos?</h2>
 <p>For those, I use a different mobile app called <a href="https://play.google.com/store/apps/details?id=com.cateater.stopmotionstudio">Stop-Motion Studio.</a></p>
+
+<h1>Have other questions? Ask them <a href="https://forms.gle/8pGJXv1WLbwkxKcbA">here.</a></h1>
