@@ -3,7 +3,6 @@ title: Music
 layout: page
 ---
 <h1>Music created by SamuraiOwl</h1>
-<h2><a href="https://samuraiowl.bandcamp.com">View It on Bandcamp</a></h2>
 <iframe scrolling="no" style="border: 0;width: 100%;height: 33px;" src="https://bandcamp.com/band_follow_button_classic/783609325"></iframe>
 
 <h3><a href="https://samuraiowl.bandcamp.com/album/1nd13-g4m3r">1ND13 G4M3R</a>
