@@ -22,5 +22,5 @@ layout: page
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2263487239/size=small/bgcol=333333/linkcol=0f91ff/artwork=none/track=3158598149/transparent=true/" seamless><a href="http://samuraiowl.bandcamp.com/album/1nd13-g4m3r">1ND13 G4M3R by SamuraiOwl</a></iframe>
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2263487239/size=small/bgcol=333333/linkcol=0f91ff/artwork=none/track=3309931063/transparent=true/" seamless><a href="http://samuraiowl.bandcamp.com/album/1nd13-g4m3r">1ND13 G4M3R by SamuraiOwl</a></iframe>
 
-<h3><a href="https://samuraiowl.bandcamp.com/album/watch-the-world-burn-single">Watch the World Burn (Single)
+<h3><a href="https://samuraiowl.bandcamp.com/album/watch-the-world-burn-single">Watch the World Burn (Single)</a></h3>
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4179497311/size=small/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/" seamless><a href="http://samuraiowl.bandcamp.com/album/watch-the-world-burn-single">Watch the World Burn (Single) by Samurai Owl</a></iframe>
