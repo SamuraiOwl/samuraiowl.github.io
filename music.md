@@ -19,5 +19,5 @@ layout: page
 <h3><a href="https://samuraiowl.bandcamp.com/album/electrokute-single">Electrokute (Single)</a></h3>
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2908127948/size=small/bgcol=333333/linkcol=0f91ff/artwork=none/.transparent=true/" seamless><a href="http://samuraiowl.bandcamp.com/album/electrokute-single">Electrokute (Single) by Samurai Owl</a></iframe>
 
-<h3><a href="https://samuraiowl.bandcamp.com/album/monstrous-single">Monstrous (Single)</a><h3>
+<h3><a href="https://samuraiowl.bandcamp.com/album/monstrous-single">Monstrous (Single)</a></h3>
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1126168699/size=small/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/" seamless><a href="http://samuraiowl.bandcamp.com/album/monstrous-single">Monstrous (Single) by Samurai Owl</a></iframe>
