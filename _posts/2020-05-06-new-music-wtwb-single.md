@@ -2,7 +2,7 @@
 title : New (?) Music - Watch the World Burn (Single)!!
 published : true
 ---
-<h2>New Music Available Now!!</h2>
+<h2>New (?) Music Available Now!!</h2>
 <p>This is an oldie. I made this last year and found it in my files today, so that's why I set it to being released last year.</p>
 <p>I used some older instruments for this song, and it's not quite as good quality, but it's actually one of my better old songs.</p>
 <p>I sort of tried to emulate the sound of the artist Glitch Mob in this song, but didn't manage it very well.</p>
