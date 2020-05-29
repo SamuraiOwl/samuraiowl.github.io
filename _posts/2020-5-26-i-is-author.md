@@ -5,4 +5,4 @@ published : true
 <h1>I'm a Published Author Now, Guys!!!</h1>
 <p>I am super super excited to announce that I am an officially published author! One of my devotions that I made has been edited and published on <a href="https://unlocked.org">Unlocked magazine,</a> a Chrostian devotional magazine for teens. I am now officially a published author!!</p>
 <p>I would also like to thank Unlocked's Taylor Eising for helping me get my article published.</p>
-<div style="position:relative;width:100%;height:0;padding-top:56.25%;"><iframe src="https://subsplash.com/+cwgd/lb/mi/+rtywh43?branding=true&embed=true" frameborder="0" webkitallowfullscreen mozallowfullscreenallowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+<h2><a href="https://subspla.sh/rtywh43">Listen Now on Unlocked!</a></h2>
