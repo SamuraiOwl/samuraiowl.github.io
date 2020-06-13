@@ -59,6 +59,13 @@ header {
 
 .header-links {
   text-align: center;
+   font-size: 18px;
+   font-weight: 300;
+   
+   a {
+   color: $dove-grey;
+   }
+   
 }
 
 .header-link {
@@ -83,7 +90,7 @@ header .title {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: $dove-grey;
 }
 
 /* Main Content
