@@ -21,7 +21,7 @@ defaults:
     values:
       layout: "post"
 
-future: true
+future: false
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
