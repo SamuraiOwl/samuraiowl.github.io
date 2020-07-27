@@ -6,11 +6,16 @@
 @import "rouge-base16-dark";
 @import "default_colors";
 
+// Variables
 $body-background: $cod-grey !default;
 $body-foreground: $gallery !default;
 $header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
+
+$mainfonts:  'Montserrat', sans-serif;
+$headerfonts: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+$otherfonts: 'VT323', monospace;
 
 body {
   margin: 0;
@@ -19,7 +24,7 @@ body {
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: $mainfonts;
 }
 
 /* General & 'Reset' Stuff */
@@ -61,6 +66,7 @@ header {
   text-align: center;
    font-size: 18px;
    font-weight: 300;
+   font-family: $otherfonts;
    
    a {
    color: $dove-grey;
@@ -78,8 +84,8 @@ header .title {
   margin: 0;
   text-align: center;
   font-weight: bold;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $conifer;//$header;
+  font-family: $otherfonts;
+  color: $conifer;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -106,7 +112,7 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: $headerfonts;
   color: $header;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
