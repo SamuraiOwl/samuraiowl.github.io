@@ -64,7 +64,7 @@ header {
 
 .header-links {
   text-align: center;
-   font-size: 18px;
+   font-size: 25px;
    font-weight: 300;
    font-family: $otherfonts;
    
@@ -79,11 +79,11 @@ header {
 }
 
 header .title {
-  font-size: 24px;
+  font-size: 50px;
   line-height: 1.5;
   margin: 0;
   text-align: center;
-  font-weight: bold;
+  font-weight: 300;
   font-family: $otherfonts;
   color: $conifer;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
