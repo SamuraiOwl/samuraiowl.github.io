@@ -10,13 +10,13 @@ published : true
 
 <h3>Soundpads </h3>
 
-<p><a href = "https://ttaud.io/2IfCMDK" target="_blank">Fight : Jungle</a></p>
+<p><a href = "https://bit.ly/2GYMcmI" target="_blank">Fight : Jungle</a></p>
 
-<p><a href = "https://ttaud.io/2Ifplnk" target="_blank">At Home</a></p>
+<p><a href = "https://bit.ly/3m8G0tM" target="_blank">At Home</a></p>
 
-<p><a href = "https://ttaud.io/2IfGxcA" target="_blank">On the Move </a></p>
+<p><a href = "https://bit.ly/2GYj8f2" target="_blank">On the Move </a></p>
 
-<p><a href = "https://ttaud.io/2IeYvf1" target="_blank">Building a Base </a></p>
+<p><a href = "https://bit.ly/2Mxzv4u" target="_blank">Building a Base </a></p>
 
 <p><a href = "http://bit.ly/2VUog9s" target="_blank">The Ocean</a></p>
 
