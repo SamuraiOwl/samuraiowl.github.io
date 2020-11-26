@@ -22,7 +22,7 @@ published : true
 
 <p><a href = "http://bit.ly/379tK4q" target="_blank">Zombies!</a></p>
 
-<p><a href = "https://bit.ly/3fARWlG" target="_blank">SCP Facility</a></p>
+<p><a href = "https://bit.ly/2V4Uyih" target="_blank">SCP Facility</a></p>
 
 <h3>Videos</h3>
 
