@@ -23,13 +23,3 @@ published : true
 <p><a href = "http://bit.ly/379tK4q" target="_blank">Zombies!</a></p>
 
 <p><a href = "https://bit.ly/2V4Uyih" target="_blank">SCP Facility</a></p>
-
-<h3>Videos</h3>
-
-<p><a href = "https://drive.google.com/open?id=12tB2b_cMxEjgXijc1-SOP43Mi2rR-OwE" target="_blank">Journey of Solitude</a></p>
-
-<p><a href = "https://drive.google.com/open?id=1LeGLdbfixqS3CMaHtWolw_mdZf7c0KkI" target="_blank">Evil Badguys!!!!!</a></p>
-
-<p><a href = "https://drive.google.com/open?id=1wPgWzPG0kv9yvcxShEHDiCmePtesXFgh" target="_blank">The Glove of DOOM!!!</a></p>
-
-<p><a href = "https://drive.google.com/open?id=1K2BUvan2laAgsR5UdaBGl6OURk_GxKJo" target="_blank">The Wizards' Duel...with MACHINE gums!!!</a>
