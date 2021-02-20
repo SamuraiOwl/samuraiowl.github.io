@@ -24,5 +24,6 @@ published : true
 
 <p><a href = "https://bit.ly/2V4Uyih" target="_blank">SCP Facility</a></p>
 
+<p><a href = "https://bit.ly/3azuWTf" target="_blank">SPiNE</a></p>
 <h3>Playlists</h3>
 <p><a href = "http://tabletopaudio.com/index.html?42&58&82&125&8" target="_blank">Horror</a></p>
