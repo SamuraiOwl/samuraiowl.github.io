@@ -18,12 +18,15 @@ published : true
 
 <p><a href = "https://bit.ly/2Mxzv4u" target="_blank">Building a Base </a></p>
 
-<p><a href = "http://bit.ly/2VUog9s" target="_blank">The Ocean</a></p>
+<p><a href = "https://bit.ly/2VUog9s" target="_blank">The Ocean</a></p>
 
-<p><a href = "http://bit.ly/379tK4q" target="_blank">Zombies!</a></p>
+<p><a href = "https://bit.ly/379tK4q" target="_blank">Zombies!</a></p>
 
 <p><a href = "https://bit.ly/2V4Uyih" target="_blank">SCP Facility</a></p>
 
 <p><a href = "https://bit.ly/3azuWTf" target="_blank">SPiNE</a></p>
+
+<p><a href = "https://bit.ly/3aEDW9K" target="_blank">SPiNE: Cryofacility</a></p>
+
 <h3>Playlists</h3>
 <p><a href = "http://tabletopaudio.com/index.html?42&58&82&125&8" target="_blank">Horror</a></p>
