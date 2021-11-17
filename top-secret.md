@@ -32,6 +32,8 @@ published : true
 
 <p><a href = "https://ttaud.io/3iDhTV4" target="_blank">Lair of the Dragon</a></p>
 
+<p><a href = "https://bit.ly/3cnX5wM" target="_blank">Freaky Tones</a></p>
+
 <h3>Playlists</h3>
 <p><a href = "http://tabletopaudio.com/index.html?42&58&82&125&8" target="_blank">Horror</a></p>
 
