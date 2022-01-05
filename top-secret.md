@@ -34,6 +34,8 @@ published : true
 
 <p><a href = "https://bit.ly/3cnX5wM" target="_blank">Freaky Tones</a></p>
 
+<p><a href = "https://ttaud.io/3EZmh8s" target="_blank">The Village</a></p>
+
 <h3>Playlists</h3>
 <p><a href = "http://tabletopaudio.com/index.html?42&58&82&125&8" target="_blank">Horror</a></p>
 
