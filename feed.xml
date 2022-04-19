@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SAMURAI OWL</title>
+    <link href="https://samuraiowl.github.io/samuraiowl.github.io/feed.xml" rel="self" />
+    <link href="https://samuraiowl.github.io/samuraiowl.github.io" />
+    <updated>2022-04-19T10:41:05-04:00</updated>
+    <author>
+        <name>Samurai Owl</name>
+    </author>
+    <id>https://samuraiowl.github.io/samuraiowl.github.io</id>
+
+    <entry>
+        <title>STINGER EP</title>
+        <author>
+            <name>Samurai Owl</name>
+        </author>
+        <link href="https://samuraiowl.github.io/samuraiowl.github.io/stinger-ep/"/>
+        <id>https://samuraiowl.github.io/samuraiowl.github.io/stinger-ep/</id>
+            <category term="MUSIC"/>
+
+        <updated>2022-04-19T10:38:35-04:00</updated>
+            <summary>
+                <![CDATA[
+                    STINGER EP by Samurai Owl
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>PANiC EP</title>
+        <author>
+            <name>Samurai Owl</name>
+        </author>
+        <link href="https://samuraiowl.github.io/samuraiowl.github.io/panic-ep/"/>
+        <id>https://samuraiowl.github.io/samuraiowl.github.io/panic-ep/</id>
+            <category term="MUSIC"/>
+
+        <updated>2022-04-19T10:41:05-04:00</updated>
+            <summary>
+                <![CDATA[
+                    PANiC EP by Samurai Owl
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>No TuRNiNG BaCK</title>
+        <author>
+            <name>Samurai Owl</name>
+        </author>
+        <link href="https://samuraiowl.github.io/samuraiowl.github.io/no-turning-back/"/>
+        <id>https://samuraiowl.github.io/samuraiowl.github.io/no-turning-back/</id>
+            <category term="STORIES"/>
+
+        <updated>2022-04-18T14:25:18-04:00</updated>
+            <summary>
+                <![CDATA[
+                    ..--&gt;--.--_.&gt;---..._...--&gt;&gt;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+</feed>

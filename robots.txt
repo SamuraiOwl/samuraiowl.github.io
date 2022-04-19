@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /contact.html
+Disallow:
+Sitemap: https://samuraiowl.github.io/samuraiowl.github.io/sitemap.xml
