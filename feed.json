@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://samuraiowl.github.io/about-me/",
+            "url": "https://samuraiowl.github.io/about-me/",
+            "title": "About Me",
+            "summary": "Hi, I'm Samurai Owl. I am a God-fearing musician, gamer, and storyteller. I love to explore other worlds, create new ones, and describe&hellip;",
+            "image": "https://samuraiowl.github.io/media/posts/6/Wide-Bleached.jpg",
+            "author": {
+                "name": "Samurai Owl"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-05T13:55:26-04:00",
+            "date_modified": "2022-07-05T14:10:46-04:00"
+        },
+        {
             "id": "https://samuraiowl.github.io/stinger-ep/",
             "url": "https://samuraiowl.github.io/stinger-ep/",
             "title": "STINGER EP",
@@ -21,7 +35,7 @@
                    "MUSIC"
             ],
             "date_published": "2022-04-19T10:38:10-04:00",
-            "date_modified": "2022-04-19T10:38:35-04:00"
+            "date_modified": "2022-07-05T13:54:32-04:00"
         },
         {
             "id": "https://samuraiowl.github.io/panic-ep/",
@@ -35,21 +49,7 @@
                    "MUSIC"
             ],
             "date_published": "2022-04-19T10:19:30-04:00",
-            "date_modified": "2022-04-19T10:41:05-04:00"
-        },
-        {
-            "id": "https://samuraiowl.github.io/no-turning-back/",
-            "url": "https://samuraiowl.github.io/no-turning-back/",
-            "title": "No TuRNiNG BaCK",
-            "summary": "..--&gt;--.--_.&gt;---..._...--&gt;&gt;",
-            "author": {
-                "name": "Samurai Owl"
-            },
-            "tags": [
-                   "STORIES"
-            ],
-            "date_published": "2022-04-18T14:16:41-04:00",
-            "date_modified": "2022-04-18T14:25:18-04:00"
+            "date_modified": "2022-07-05T13:54:27-04:00"
         }
     ]
 }

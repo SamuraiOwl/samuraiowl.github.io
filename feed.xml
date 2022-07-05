@@ -3,12 +3,29 @@
     <title>SAMURAI OWL</title>
     <link href="https://samuraiowl.github.io/feed.xml" rel="self" />
     <link href="https://samuraiowl.github.io" />
-    <updated>2022-04-19T10:41:05-04:00</updated>
+    <updated>2022-07-05T14:10:46-04:00</updated>
     <author>
         <name>Samurai Owl</name>
     </author>
     <id>https://samuraiowl.github.io</id>
 
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Samurai Owl</name>
+        </author>
+        <link href="https://samuraiowl.github.io/about-me/"/>
+        <id>https://samuraiowl.github.io/about-me/</id>
+
+        <updated>2022-07-05T14:10:46-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://samuraiowl.github.io/media/posts/6/Wide-Bleached.jpg" alt="" />
+                    Hi, I'm Samurai Owl. I am a God-fearing musician, gamer, and storyteller. I love to explore other worlds, create new ones, and describe&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>STINGER EP</title>
         <author>
@@ -18,7 +35,7 @@
         <id>https://samuraiowl.github.io/stinger-ep/</id>
             <category term="MUSIC"/>
 
-        <updated>2022-04-19T10:38:35-04:00</updated>
+        <updated>2022-07-05T13:54:32-04:00</updated>
             <summary>
                 <![CDATA[
                     STINGER EP by Samurai Owl
@@ -35,27 +52,10 @@
         <id>https://samuraiowl.github.io/panic-ep/</id>
             <category term="MUSIC"/>
 
-        <updated>2022-04-19T10:41:05-04:00</updated>
+        <updated>2022-07-05T13:54:27-04:00</updated>
             <summary>
                 <![CDATA[
                     PANiC EP by Samurai Owl
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>No TuRNiNG BaCK</title>
-        <author>
-            <name>Samurai Owl</name>
-        </author>
-        <link href="https://samuraiowl.github.io/no-turning-back/"/>
-        <id>https://samuraiowl.github.io/no-turning-back/</id>
-            <category term="STORIES"/>
-
-        <updated>2022-04-18T14:25:18-04:00</updated>
-            <summary>
-                <![CDATA[
-                    ..--&gt;--.--_.&gt;---..._...--&gt;&gt;
                 ]]>
             </summary>
         <content></content>
