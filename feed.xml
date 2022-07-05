@@ -3,7 +3,7 @@
     <title>SAMURAI OWL</title>
     <link href="https://samuraiowl.github.io/feed.xml" rel="self" />
     <link href="https://samuraiowl.github.io" />
-    <updated>2022-07-05T14:10:46-04:00</updated>
+    <updated>2022-07-05T14:13:44-04:00</updated>
     <author>
         <name>Samurai Owl</name>
     </author>
@@ -27,7 +27,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>STINGER EP</title>
+        <title>STINGER EP Out Now</title>
         <author>
             <name>Samurai Owl</name>
         </author>
@@ -35,7 +35,7 @@
         <id>https://samuraiowl.github.io/stinger-ep/</id>
             <category term="MUSIC"/>
 
-        <updated>2022-07-05T13:54:32-04:00</updated>
+        <updated>2022-07-05T14:13:40-04:00</updated>
             <summary>
                 <![CDATA[
                     STINGER EP by Samurai Owl
@@ -44,7 +44,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>PANiC EP</title>
+        <title>PANiC EP Out Now</title>
         <author>
             <name>Samurai Owl</name>
         </author>
@@ -52,7 +52,7 @@
         <id>https://samuraiowl.github.io/panic-ep/</id>
             <category term="MUSIC"/>
 
-        <updated>2022-07-05T13:54:27-04:00</updated>
+        <updated>2022-07-05T14:13:44-04:00</updated>
             <summary>
                 <![CDATA[
                     PANiC EP by Samurai Owl
