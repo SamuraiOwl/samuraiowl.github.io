@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://samuraiowl.github.io/samuraiowl.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://samuraiowl.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://samuraiowl.github.io/samuraiowl.github.io/</loc>
+<loc>https://samuraiowl.github.io/</loc>
 </url>
 <url>
-<loc>https://samuraiowl.github.io/samuraiowl.github.io/no-turning-back/</loc>
+<loc>https://samuraiowl.github.io/no-turning-back/</loc>
 <lastmod>2022-04-18T14:25:18-04:00</lastmod>
 </url>
 <url>
-<loc>https://samuraiowl.github.io/samuraiowl.github.io/panic-ep/</loc>
+<loc>https://samuraiowl.github.io/panic-ep/</loc>
 <lastmod>2022-04-19T10:41:05-04:00</lastmod>
 </url>
 <url>
-<loc>https://samuraiowl.github.io/samuraiowl.github.io/stinger-ep/</loc>
+<loc>https://samuraiowl.github.io/stinger-ep/</loc>
 <lastmod>2022-04-19T10:38:35-04:00</lastmod>
 </url>
 </urlset>

@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "SAMURAI OWL",
     "description": "",
-    "home_page_url": "https://samuraiowl.github.io/samuraiowl.github.io",
-    "feed_url": "https://samuraiowl.github.io/samuraiowl.github.io/feed.json",
+    "home_page_url": "https://samuraiowl.github.io",
+    "feed_url": "https://samuraiowl.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Samurai Owl"
     },
     "items": [
         {
-            "id": "https://samuraiowl.github.io/samuraiowl.github.io/stinger-ep/",
-            "url": "https://samuraiowl.github.io/samuraiowl.github.io/stinger-ep/",
+            "id": "https://samuraiowl.github.io/stinger-ep/",
+            "url": "https://samuraiowl.github.io/stinger-ep/",
             "title": "STINGER EP",
             "summary": "STINGER EP by Samurai Owl",
             "author": {
@@ -24,8 +24,8 @@
             "date_modified": "2022-04-19T10:38:35-04:00"
         },
         {
-            "id": "https://samuraiowl.github.io/samuraiowl.github.io/panic-ep/",
-            "url": "https://samuraiowl.github.io/samuraiowl.github.io/panic-ep/",
+            "id": "https://samuraiowl.github.io/panic-ep/",
+            "url": "https://samuraiowl.github.io/panic-ep/",
             "title": "PANiC EP",
             "summary": "PANiC EP by Samurai Owl",
             "author": {
@@ -38,8 +38,8 @@
             "date_modified": "2022-04-19T10:41:05-04:00"
         },
         {
-            "id": "https://samuraiowl.github.io/samuraiowl.github.io/no-turning-back/",
-            "url": "https://samuraiowl.github.io/samuraiowl.github.io/no-turning-back/",
+            "id": "https://samuraiowl.github.io/no-turning-back/",
+            "url": "https://samuraiowl.github.io/no-turning-back/",
             "title": "No TuRNiNG BaCK",
             "summary": "..--&gt;--.--_.&gt;---..._...--&gt;&gt;",
             "author": {
