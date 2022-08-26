@@ -3,12 +3,24 @@
     <title>SAMURAI OWL</title>
     <link href="https://samuraiowl.github.io/feed.xml" rel="self" />
     <link href="https://samuraiowl.github.io" />
-    <updated>2022-07-30T16:00:36-04:00</updated>
+    <updated>2022-08-26T10:50:39-04:00</updated>
     <author>
         <name>Samurai Owl</name>
     </author>
     <id>https://samuraiowl.github.io</id>
 
+    <entry>
+        <title>The Death of the King</title>
+        <author>
+            <name>Samurai Owl</name>
+        </author>
+        <link href="https://samuraiowl.github.io/the-death-of-the-king/"/>
+        <id>https://samuraiowl.github.io/the-death-of-the-king/</id>
+
+        <updated>2022-08-14T15:32:56-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>About Me</title>
         <author>
@@ -17,10 +29,10 @@
         <link href="https://samuraiowl.github.io/about-me/"/>
         <id>https://samuraiowl.github.io/about-me/</id>
 
-        <updated>2022-07-30T16:00:36-04:00</updated>
+        <updated>2022-08-26T10:50:39-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://samuraiowl.github.io/media/posts/6/Untitled-design-2-2.png" alt="" />
+                        <img src="https://samuraiowl.github.io/media/posts/6/Samurai-Owl-About-Image.png" alt="" />
                     Hi, I'm Samurai Owl. I am a God-fearing musician, gamer, and storyteller. I love to explore other worlds, create new ones, and describe&hellip;
                 ]]>
             </summary>
