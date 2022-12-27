@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://samuraiowl.github.io/ran-out-now/",
+            "url": "https://samuraiowl.github.io/ran-out-now/",
+            "title": "New Single: RA!N",
+            "summary": "Where am I? I can't see. Wait. What's that...? How is this possible?! ",
+            "author": {
+                "name": "Samurai Owl"
+            },
+            "tags": [
+                   "MUSIC"
+            ],
+            "date_published": "2022-12-27T12:11:14-05:00",
+            "date_modified": "2022-12-27T12:11:55-05:00"
+        },
+        {
             "id": "https://samuraiowl.github.io/about-me/",
             "url": "https://samuraiowl.github.io/about-me/",
             "title": "About Me",
